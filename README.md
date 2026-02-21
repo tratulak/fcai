@@ -121,7 +121,6 @@ graph LR
 ![NumPy](https://img.shields.io/badge/NumPy-Compute-013243?logo=numpy&logoColor=white)
 ![moviepy](https://img.shields.io/badge/moviepy-Video-FF6F00)
 ![Pillow](https://img.shields.io/badge/Pillow-Images-FFD43B)
-![Click](https://img.shields.io/badge/Click-CLI-000000)
 
 | Category | Libraries |
 |----------|-----------|
