@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/match-report-epl.png" width="450" alt="FCAI Match Report - Man Utd vs Fulham">
+  <img src="assets/match-report-epl.png" width="450" alt="FCAI Match Report - Newcastle vs Leeds">
 </p>
 
 <h1 align="center">FCAI - Football Chart & Analysis Insights</h1>
